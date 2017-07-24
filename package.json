@@ -1,0 +1,20 @@
+{
+    "name": "testTemplate1",
+    "version": "0.0.1",
+    "description": "Makes Git a little fuzzier.",
+    "license": "MIT",
+    "keywords": [
+        "ff",
+        "git"
+    ],
+    "preferGlobal": true,
+    "repository": {
+        "type": "git",
+        "url": "http://legitlab.letv.cn/ilemall_group/ff-template-test.git"
+    },
+    "dependencies": {
+
+    }
+}
+
+
